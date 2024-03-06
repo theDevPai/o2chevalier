@@ -32,7 +32,7 @@ const About = () => {
           >
             <button className="secondary-button">Learn More</button>
           </a>
-          <a href="https://youtu.be/bGzCFNUtkdU" target={"_blank"}>
+          <a href="https://youtu.be/bGzCFNUtkdU" target={"_blank"} rel = {"noreferrer"}>
             <button className="watch-video-button">
               <BsFillPlayCircleFill /> Watch Video
             </button>
