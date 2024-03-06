@@ -28,6 +28,7 @@ const About = () => {
           <a
             href="https://news.climate.columbia.edu/2022/04/22/what-is-decarbonization-and-how-do-we-make-it-happen/"
             target={"_blank"}
+            rel = {"noreferrer"}
           >
             <button className="secondary-button">Learn More</button>
           </a>
