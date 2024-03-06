@@ -57,6 +57,7 @@ const Footer = () => {
             <a
               href="https://osgogpsgtn0.typeform.com/to/u8as9Bio"
               target={"_blank"}
+              rel = {"noreferrer"}
             >
               Help
             </a>
@@ -68,6 +69,7 @@ const Footer = () => {
             <a
               href="https://osgogpsgtn0.typeform.com/to/u8as9Bio"
               target={"_blank"}
+              rel = {"noreferrer"}
             >
               Submit a Testimonial
             </a>
