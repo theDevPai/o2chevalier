@@ -76,9 +76,7 @@ const Footer = () => {
           </span>
         </div>
         <div className="footer-section-columns">
-          <span>+91 6362117693</span>
           <span>+44 7553875147</span>
-          <span>queries@o2chavelier.com</span>
         </div>
         <div className="footer-section-columns">
           <span>Terms & Conditions</span>
