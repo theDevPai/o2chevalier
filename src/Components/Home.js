@@ -17,8 +17,8 @@ const Home = () => {
             Find the volume of Oxygen you're about to produce fresh.
           </h1>
           <p className="primary-text">
-            A simple calculator to show you how many trees you need to plant to
-            neutralize the effect of the carbon dioxide you produce
+            You're one simple calculation away from finding how many trees
+            you need to plant to make this planet more sustainable.
           </p>
           <a href="#Try-now">
             <button className="secondary-button">
